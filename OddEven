@@ -1,0 +1,20 @@
+    {
+        static void Main(string[] args)
+        {
+            double i;
+            double mod;
+            for (i = 1.0; i <= 10; i++) {  
+                mod = i % 2.0;
+                if (Convert.ToBoolean(mod == 0))
+                {
+                    Console.WriteLine(i+ " Is An Even Number");
+                }
+                else
+                {
+                    Console.WriteLine(i + " Is An Odd Number");
+                }
+            Console.ReadLine();
+            }
+        }
+    }
+}
