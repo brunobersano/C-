@@ -1,0 +1,6 @@
+C:\Users\bruno.morelli\Desktop\Bruno\BCIT\COMP 2641 C#\COMP2614Assign01\COMP2614Assign01\bin\Debug\COMP2614Assign01.exe.config
+C:\Users\bruno.morelli\Desktop\Bruno\BCIT\COMP 2641 C#\COMP2614Assign01\COMP2614Assign01\bin\Debug\COMP2614Assign01.exe
+C:\Users\bruno.morelli\Desktop\Bruno\BCIT\COMP 2641 C#\COMP2614Assign01\COMP2614Assign01\bin\Debug\COMP2614Assign01.pdb
+C:\Users\bruno.morelli\Desktop\Bruno\BCIT\COMP 2641 C#\COMP2614Assign01\COMP2614Assign01\obj\Debug\COMP2614Assign01.csprojResolveAssemblyReference.cache
+C:\Users\bruno.morelli\Desktop\Bruno\BCIT\COMP 2641 C#\COMP2614Assign01\COMP2614Assign01\obj\Debug\COMP2614Assign01.exe
+C:\Users\bruno.morelli\Desktop\Bruno\BCIT\COMP 2641 C#\COMP2614Assign01\COMP2614Assign01\obj\Debug\COMP2614Assign01.pdb
